@@ -1,0 +1,1 @@
+Copy the built Nextgen Client JAR here and rename it Nextgen-Client.jar before compiling.

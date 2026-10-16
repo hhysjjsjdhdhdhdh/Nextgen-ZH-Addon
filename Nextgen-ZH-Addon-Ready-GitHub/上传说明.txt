@@ -1,0 +1,4 @@
+本压缩包内文件已按 GitHub 项目根目录整理。解压后将所有文件夹和文件上传至 GitHub 仓库根目录，保留 src/、gradle/、.github/ 层级。
+注意：还需把你实际编译好的 Nextgen 客户端 JAR 上传至 libs/Nextgen-Client.jar，否则无法编译。
+Java 正确路径：src/main/java/dev/nextgen/zh/NextgenZhAddon.java。
+目前未验证插件编译或运行兼容性。
