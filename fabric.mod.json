@@ -1,0 +1,11 @@
+{
+ "schemaVersion": 1,
+ "id": "nextgen-zh-addon",
+ "version": "${version}",
+ "name": "Nextgen 简体中文界面插件",
+ "description": "Translates Nextgen module labels and setting labels while preserving internal IDs.",
+ "authors": ["Nextgen community"],
+ "environment": "client",
+ "entrypoints": { "meteor": ["dev.nextgen.zh.NextgenZhAddon"] },
+ "depends": { "fabricloader": ">=0.19.3", "minecraft": "26.2", "meteor-client": "*", "java": ">=25" }
+}
